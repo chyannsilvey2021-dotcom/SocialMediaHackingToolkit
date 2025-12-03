@@ -330,5 +330,9 @@ If you have encountered an issue with SocialMediaHackingToolkit or would like to
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=rdWei/socialmediahackingtoolkit&type=Date)](https://star-history.com/#rdWei/socialmediahackingtoolkit&Date)
+[![Star History Chart][def]][def2]
 
+
+
+[def]: https://api.star-history.com/svg?repos=rdWei/socialmediahackingtoolkit&type=Date
+[def2]: https://star-history.com/#rdWei/socialmediahackingtoolkit&Date
